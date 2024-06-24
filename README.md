@@ -2,7 +2,7 @@
 
 Sales Forecasting Project with ARIMA & LSTM
 
-- Dataset Description
+Dataset Description
 - Dataset Size: 6736 data points
 - Source: STORE ECUADOR
 - Categories (FAMILY): Automotive, Beauty, Beverages, Bread/Bakery
