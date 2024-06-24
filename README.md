@@ -1,7 +1,6 @@
 # sales-forecasting
 
 Sales Forecasting Project with ARIMA & LSTM
-This README provides an overview and comparison of ARIMA (AutoRegressive Integrated Moving Average) and LSTM (Long Short-Term Memory) models used for sales forecasting based on data from STORE ECUADOR across different product categories.
 
 Dataset Description
 Dataset Size: 6736 data points
